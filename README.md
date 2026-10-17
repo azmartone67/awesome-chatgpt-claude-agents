@@ -116,6 +116,8 @@
 - **[Lobe Chat](https://github.com/lobehub/lobe-chat)** ⭐ 63k+ - Open-source UI framework for building ChatGPT/LLM-based chat applications
 - **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** ⭐ 61k+ - Open-source initiative replicating autonomous AI software engineer Devin
 - **[E2B](https://github.com/e2b-dev/e2b)** - Open platform for AI agents & AI apps
+- **[Codexia](https://github.com/milisp/codexia)** ⭐ 900+ - Lightweight agent workstation for Codex and Claude Code with a task scheduler, git worktrees and remote control
+- **[MCP Linker](https://github.com/milisp/mcp-linker)** ⭐ 340+ - MCP store and configuration manager that discovers, adds and syncs MCP servers across Claude Code, Codex, Cursor and more
 
 ## 🔄 Multi-Agent Systems
 
