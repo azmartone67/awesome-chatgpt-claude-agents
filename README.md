@@ -5,6 +5,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
+<p align="center">
+  🚀 <strong>New:</strong> <a href="https://www.producthunt.com/products/mcp-linker?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-chatgpt-claude-agents">MCP Linker</a> — sync MCP servers between Claude Code, Codex, Cursor &amp; more — is live on Product Hunt!<br>
+  <a href="https://www.producthunt.com/products/mcp-linker?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-chatgpt-claude-agents" target="_blank" rel="noopener noreferrer"><img alt="MCP Linker on Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1281069&amp;theme=light"></a>
+</p>
+
 > A curated collection of awesome ChatGPT & Claude agents, subagents, and AI-powered development tools for 2025
 
 ## 📋 Contents
@@ -18,6 +23,7 @@
 - [Claude Code Subagents](#claude-code-subagents)
   - [Production-Ready Collections](#production-ready-collections)
   - [Specialized Development](#specialized-development)
+  - [Testing & Quality Assurance](#testing--quality-assurance)
   - [Full-Stack & DevOps](#full-stack--devops)
   - [Data Science & ML](#data-science--ml)
 - [Frameworks & Platforms](#frameworks--platforms)
@@ -77,6 +83,9 @@
 - **[toprank](https://github.com/nowork-studio/toprank)** - Open-source Claude Code plugin with 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API
 - **[NotFair](https://github.com/nowork-studio/NotFair)** ⭐ 2.9k+ - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects live marketing data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 
+### Testing & Quality Assurance
+
+- **[Agent QA](https://github.com/vostride/agent-qa)** ⭐ 933 - Self-improving QA agent with skills for authoring natural-language web, Android, and iOS regression tests, debugging failed runs, and triaging reviewable run evidence.
 
 ### Full-Stack & DevOps
 
@@ -91,6 +100,7 @@
 ## 🛠️ Frameworks & Platforms
 
 ### Multi-Agent Orchestration
+- **[Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** ⭐ 250 - Records the traffic between an agent and the model provider into a local trace, then replays it offline to reproduce a failed run without calling the provider again.
 
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** ⭐ 20k+ - Framework for orchestrating role-playing, autonomous AI agents
 - **[Swarm](https://github.com/openai/swarm)** - Educational framework for lightweight multi-agent orchestration by OpenAI
@@ -99,6 +109,7 @@
 - **[OpenPaw](https://github.com/daxaur/openpaw)** - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed.
 - **[agency-os](https://github.com/ratamaha-git/agency-os)** - Run your work like an AI agency from a single Notion board. Plan ideas into dependency-sequenced subtasks, dispatch each on the right model, and collect results back in Notion. Pluggable to Claude Code, Cursor, Cline, or any MCP-compatible agent.
 - **[AutomateLab-tech/publishing-skills](https://github.com/AutomateLab-tech/publishing-skills)** - Four composable, platform-agnostic skills that turn an AI agent into a long-tail SEO publishing pipeline: topic research, drafting, SVG figures, and an editorial calendar. Publishes to Ghost, WordPress, or any static-site generator. Install via clawhub or by cloning the repo.
+- **[YYLO](https://github.com/yylo-dev/yylo)** ⭐ 57 - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes, with typed task, validation, merge, and release-readiness boundaries. Each task runs in a dedicated branch/worktree, and the merge queue owns risk-based review. MIT, on npm as @yylo/cli; subagent namespaces include Pi and Codex.
 
 ### Development Platforms
 
@@ -111,7 +122,8 @@
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** ⭐ 44k+ - Multi-agent framework that turns one line requirement into PRD, design, tasks, and code
 - **[ChatDev](https://github.com/OpenBMB/ChatDev)** ⭐ 25k+ - Communicative agents for software development
 - **[CAMEL](https://github.com/camel-ai/camel)** ⭐ 5k+ - Communicative agents for "mind" exploration of large language model society
-- **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI; agents collaborate, build their own tools and mini-apps, and are reachable over Telegram, Slack, Discord and Matrix
+- **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** ⭐ 70 - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI; agents collaborate, build their own tools and mini-apps, and are reachable over Telegram, Slack, Discord and Matrix
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** ⭐ 2,002 - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ## 📚 Educational Resources
 
