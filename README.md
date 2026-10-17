@@ -10,7 +10,7 @@
   <a href="https://www.producthunt.com/products/mcp-linker?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-chatgpt-claude-agents" target="_blank" rel="noopener noreferrer"><img alt="MCP Linker on Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1281069&amp;theme=light"></a>
 </p>
 
-> A curated collection of awesome ChatGPT & Claude agents, subagents, and AI-powered development tools for 2025
+> A curated collection of awesome ChatGPT & Claude agents, subagents, and AI-powered development tools
 
 ## 📋 Contents
 
@@ -198,13 +198,6 @@ model: "claude-3-5-sonnet-20241022"
 tools: ["read", "write", "bash"]
 ```
 
-## 📈 Trending in 2025
-
-- **Model Context Protocol (MCP)**: Standardizing AI model connections with external tools
-- **Multi-modal agents**: Combining text, image, and audio processing
-- **Autonomous coding**: Self-improving and self-correcting code agents
-- **Domain-specific specialization**: Industry-focused AI agents
-
 ## 🤝 Contributing
 
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting.
@@ -234,5 +227,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **[⬆ Back to Top](#awesome-chatgpt--claude-agents-)**
-
-*Last updated: August 2025*
