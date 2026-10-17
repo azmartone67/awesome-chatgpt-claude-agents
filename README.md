@@ -40,12 +40,10 @@
 ### Business & Productivity
 
 - **[TaskWeaver](https://github.com/microsoft/TaskWeaver)** ⭐ 5k+ - A code-first agent framework for seamlessly planning and executing data analytics tasks
-- **[ChatGPT-Business](https://github.com/garyvalue/chatgpt-business)** - Business applications and use cases for ChatGPT
 - **[GPT-Researcher](https://github.com/assafelovic/gpt-researcher)** ⭐ 14k+ - GPT based autonomous agent that does online comprehensive research
 
 ### Creative & Content
 
-- **[ChatGPT-Writer](https://github.com/gpt-writer/ChatGPT-Writer)** - Browser extension to write emails, messages, and more using ChatGPT
 - **[AI-Commit](https://github.com/guanguans/ai-commit)** - Automagically generate conventional commit messages with AI
 - **[Storyteller](https://github.com/jaketae/storyteller)** - Generate stories using GPT models
 - **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
@@ -54,7 +52,7 @@
 
 - **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** - Autonomous agent for comprehensive online research
 - **[ChatGPT-Academic](https://github.com/binary-husky/gpt_academic)** ⭐ 65k+ - Optimize paper reading/writing experience for researchers
-- **[Paper-QA](https://github.com/whitead/paper-qa)** - LLM Chain for answering questions from documents
+- **[Paper-QA](https://github.com/Future-House/paper-qa)** - LLM Chain for answering questions from documents
 
 ### Security & DevOps
 
@@ -133,7 +131,6 @@
 
 ### Research & Papers
 
-- **[Agent Papers](https://github.com/thunlp/AgentPapers)** - Must-read papers on LLM-based agents
 - **[LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)** - Survey of LLM-based agents
 - **[Agent-Bench](https://github.com/THUDM/AgentBench)** - Evaluating LLMs as agents
 
@@ -156,12 +153,11 @@ For more, explore Reddit threads like [Massive list of 1500+ AI Agent Tools](htt
 ### Cybersecurity
 
 - **[Awesome GPT Agents (Security)](https://github.com/fr0gger/Awesome-GPT-Agents)** - GPT agents specifically for cybersecurity applications
-- **[CyberGPT](https://github.com/pentestgpt/PentestGPT)** - GPT-empowered penetration testing tool
+- **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** ⭐ 15k+ - Automated penetration testing agentic framework powered by large language models
 
 ### Finance & Trading
 
 - **[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** ⭐ 13k+ - Open-source financial large language models
-- **[TradingGPT](https://github.com/ValyrianTech/TradingGPT)** - AI-powered trading assistant
 
 ## 🚀 Getting Started
 
