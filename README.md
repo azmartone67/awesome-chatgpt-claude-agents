@@ -117,6 +117,7 @@
 - **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** ⭐ 61k+ - Open-source initiative replicating autonomous AI software engineer Devin
 - **[E2B](https://github.com/e2b-dev/e2b)** - Open platform for AI agents & AI apps
 - **[Codexia](https://github.com/milisp/codexia)** ⭐ 900+ - Lightweight agent workstation for Codex and Claude Code with a task scheduler, git worktrees and remote control
+- **[keke-agent](https://github.com/milisp/keke-agent)** ⭐ 6 - Lightweight coding agent harness built in Rust for zero vendor lock-in; bring your own key, with Codex and Grok subscription support
 - **[MCP Linker](https://github.com/milisp/mcp-linker)** ⭐ 340+ - MCP store and configuration manager that discovers, adds and syncs MCP servers across Claude Code, Codex, Cursor and more
 
 ## 🔄 Multi-Agent Systems
