@@ -5,11 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-<p align="center">
-  🚀 <strong>New:</strong> <a href="https://www.producthunt.com/products/mcp-linker?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-chatgpt-claude-agents">MCP Linker</a> — sync MCP servers between Claude Code, Codex, Cursor &amp; more — is live on Product Hunt!<br>
-  <a href="https://www.producthunt.com/products/mcp-linker?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-chatgpt-claude-agents" target="_blank" rel="noopener noreferrer"><img alt="MCP Linker on Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1281069&amp;theme=light"></a>
-</p>
-
 > A curated collection of awesome ChatGPT & Claude agents, subagents, and AI-powered development tools
 
 ## 📋 Contents
