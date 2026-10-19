@@ -159,6 +159,10 @@ For more, explore Reddit threads like [Massive list of 1500+ AI Agent Tools](htt
 
 - **[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** ⭐ 13k+ - Open-source financial large language models
 
+### Energy & Infrastructure
+
+- **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** - Live data for data-center site selection that ChatGPT and Claude agents can query over MCP (`https://dchub.cloud/mcp`). Its Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets daily, and answers carry a citation line.
+
 ## 🚀 Getting Started
 
 ### For Beginners
